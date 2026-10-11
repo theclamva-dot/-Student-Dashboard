@@ -1,0 +1,1 @@
+# Student Dashboard\n\nResponsive student dashboard practice project with course progress, current date, and an interactive task checklist. Open `index.html` in a browser.
